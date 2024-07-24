@@ -10,35 +10,18 @@ Discovered how RTL is turned into a gate-level netlist using standard cell libra
 
 ### Floor and Power Planning:
 Grasped the importance of floor planning for organizing the chip and placing I/O pads.
-# Workshop Learnings
 
-This repository contains my learnings from the 5-day workshop.
-
-## Day 1
-- Learning points from Day 1
-
-## Day 2
-- Learning points from Day 2
-
-## Day 3
-- Learning points from Day 3
-
-## Day 4
-- Learning points from Day 4
-
-## Day 5
-- Learning points from Day 5
 # Workshop Learnings
 
 This repository contains my learnings from the 5-day workshop.
 
 ## Table of Contents
 
-- [Day 1](#day-1)
-- [Day 2](#day-2)
-- [Day 3](#day-3)
-- [Day 4](#day-4)
-- [Day 5](#day-5)
+- [Workshop Day 1](#day-1)
+- [WorkshopDay 2](#day-2)
+- [WorkshopDay 3](#day-3)
+- [WorkshopDay 4](#day-4)
+- [WorkshopDay 5](#day-5)
 
 ## Day 1
 - Learned about XYZ concepts
