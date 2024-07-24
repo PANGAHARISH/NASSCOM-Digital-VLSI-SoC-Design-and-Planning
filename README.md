@@ -28,4 +28,33 @@ This repository contains my learnings from the 5-day workshop.
 
 ## Day 5
 - Learning points from Day 5
+# Workshop Learnings
+
+This repository contains my learnings from the 5-day workshop.
+
+## Table of Contents
+
+- [Day 1](#day-1)
+- [Day 2](#day-2)
+- [Day 3](#day-3)
+- [Day 4](#day-4)
+- [Day 5](#day-5)
+
+## Day 1
+- Learned about XYZ concepts
+- Understood the basics of ABC
+
+## Day 2
+- Learned about advanced features of XYZ
+- Practical session on ABC tools
+
+## Day 3
+- More detailed description of what you learned on Day 3
+
+## Day 4
+- More detailed description of what you learned on Day 4
+
+## Day 5
+- More detailed description of what you learned on Day 5
+
 
