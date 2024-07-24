@@ -18,10 +18,10 @@ This repository contains my learnings from the 5-day workshop.
 ## Table of Contents
 
 - [Workshop Day_1](#day-1)
-- [WorkshopDay_2](#day-2)
-- [WorkshopDay_3](#day-3)
-- [WorkshopDay_4](#day-4)
-- [WorkshopDay_5](#day-5)
+- [Workshop Day_2](#day-2)
+- [Workshop Day_3](#day-3)
+- [Workshop Day_4](#day-4)
+- [Workshop Day_5](#day-5)
 
 ## Day 1
 - Learned about XYZ concepts
