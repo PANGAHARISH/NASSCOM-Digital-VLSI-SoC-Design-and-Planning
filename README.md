@@ -26,9 +26,25 @@ This repository contains my learnings from the 5-day workshop.
 - [Workshop Day_4](#day-4)
 - [Workshop Day_5](#day-5)
 
-## Day 1
-- Learned about XYZ concepts
-- Understood the basics of ABC
+## Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK
+ 1.1.How to talk to computers
+1.1.1.Introduction to QFN-48 Package, chip, pads, core, die and IPs
+1.1.2.
+1.1.3.
+
+## 1.2. SoC design and OpenLANE
+1.2.1.
+1.2.2.
+1.2.3.
+1.2.4.
+
+## 1.3 Get familiar to open-source EDA tools
+1.3.1.
+1.3.2.
+1.3.3.
+1.3.4.
+1.3.5.
+
 
 ![Day 1 Learning](https://github.com/yourusername/yourrepository/blob/main/images/day1_learning.png)
 
